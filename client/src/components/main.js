@@ -5,7 +5,7 @@ class Main extends Component {
   render(){
     return(
       <div>
-       <h1>ini main</h1>
+       <h1>buka lapak</h1>
        <CategoryList/>
        </div>
     )
