@@ -1,5 +1,5 @@
 # bukalapaktest
-1. sudo npm install -d nodemon
+1. sudo npm install -g nodemon
 2. cd server 
 3. npm install
 4. npm run dev
